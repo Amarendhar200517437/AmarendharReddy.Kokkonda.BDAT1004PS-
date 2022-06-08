@@ -1,0 +1,14 @@
+What data type is each of the following?
+
+5               -       Integer(Numeric)
+5.0             -       Float{Decimal}(Numeric)
+5 > 1           -       Boolean(True)
+'5'             -       Character
+5 * 2           -       Integer(10)(Numeric)
+'5' * 2         -       Integer(ascii value of '5' = 53; 53*2 = 106)(Numeric)
+'5' + '2'       -       Integer(ascii values of 5,2 are 53,50; 53 + 50 = 103)(Numeric)
+5 / 2           -       Float{Decimal}(2.5)(Numeric)
+5 % 2           -       Integer(1)(Numeric)
+{5, 2, 1}       -       Set
+5 == 3          -       Boolean (False)
+Pi (the number) -       Double(3.14285714)(Numeric)
